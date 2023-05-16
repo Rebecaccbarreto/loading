@@ -42,7 +42,7 @@ body {
   height: 2em;
   background-color: white;
   border: .10em solid #C92071;
-  border-radius: 15%;
+  border-radius: 30%;
   transform: translate(0, -1em) rotate(-45deg);
   animation: push 4s cubic-bezier(.79, 0, .47, .97) infinite;
 }
